@@ -1,3 +1,5 @@
+MENSAJE="Calculadora Profesional"
+
 def sumar(a,b):
     return a + b
 
