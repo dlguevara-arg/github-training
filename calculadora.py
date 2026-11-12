@@ -1,3 +1,5 @@
+MENSAJE="CALCULADORA v2"
+
 def sumar(a,b):
     return a + b
 
